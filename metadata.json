@@ -1,0 +1,6 @@
+{
+  "name": "FocusLock",
+  "description": "A premium productivity app that helps students and professionals eliminate distractions, manage their own breaks, play offline focus sounds, and track habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
